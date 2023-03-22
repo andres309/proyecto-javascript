@@ -1,0 +1,7 @@
+colores
+amrillo
+azul
+rojo
+verde
+morado
+naranja
